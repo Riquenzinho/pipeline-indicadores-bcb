@@ -1,0 +1,17 @@
+# Segredos: senhas e chaves ficam só no seu computador
+.env
+
+# Arquivos pessoais de trabalho (não fazem parte do projeto)
+CLAUDE.md
+posts/
+estudos/
+
+# Ambiente virtual do Python (cada pessoa recria o seu)
+.venv/
+
+# Arquivos que o Python gera sozinho
+__pycache__/
+*.pyc
+
+# Cópias automáticas do Jupyter
+.ipynb_checkpoints/
